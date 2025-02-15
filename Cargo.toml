@@ -1,0 +1,6 @@
+[workspace]
+members=[
+    "ds-sdk",
+    "app", 
+    "df-sdk",
+]
